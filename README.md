@@ -21,5 +21,4 @@ SpendingScore : spending score of the customer
 FamilySize : number of family members of the customer (including the customer)
 Category : anonymised category for the customer
 Segmentation : (target variable) customer segment of the customer
-# Inspiration
-The dataset is ideal for anyone looking to practice customer segmentation.
+
